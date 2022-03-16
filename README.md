@@ -1,4 +1,4 @@
-# Damn Vulnerable C# Application (API)
+# Damn Vulnerable C# Application (API Only)
 
 ## Getting Started
 
